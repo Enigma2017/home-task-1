@@ -1,0 +1,56 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: url('spice.jpg') repeat top center;
+	width: 100%;
+	height: auto;
+	color: white;
+}
+
+.container{
+	width: 1170px;
+	padding: 0;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	padding: 40px 0 30px 0;
+	font-size: 46px;
+}
+
+h2{
+	font-size: 36px;
+}
+
+p{
+	text-align: center;
+	margin: 0 100px 35px 100px;
+	font-size: 23px;
+}
+
+section{
+	padding: 40px 0 80px 0;
+}
+
+.planets{
+	margin: 70px 0 80px 0;
+}
+
+.planet{
+	display: flex;
+	justify-content: space-between;
+}
+
+.text{
+	width: 750px;
+	font-size: 13px;
+	text-align: justify;
+}
+
+.img{
+	width: 320px;
+	height: 100%;
+}
